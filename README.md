@@ -11,6 +11,8 @@ The project is a tribute to women safety on the day of International Women's day
 
 The clip of the event can be sent over FFMpeg and sent as an MMS. Going  forward, the Yolo or Tiny Yolo can be re-trained with custom objects to trigger the chain of events.
 
+## To Execute:
+
 YoloV3
 $ python3 openvino_yolov3_test.py
 tiny-YoloV3 + NCS2 MultiStick
@@ -18,3 +20,4 @@ $ python3 openvino_tiny-yolov3_MultiStick_test.py -numncs 1
 YoloV3 + NCS2 MultiStick (Pretty slow)
 $ python3 openvino_yolov3_MultiStick_test.py -numncs 4
 
+![Cam in Action]{IMG_1318.jpg}
