@@ -20,4 +20,4 @@ $ python3 openvino_tiny-yolov3_MultiStick_test.py -numncs 1
 YoloV3 + NCS2 MultiStick (Pretty slow)
 $ python3 openvino_yolov3_MultiStick_test.py -numncs 4
 
-![Cam in Action]{IMG_1318.jpg}
+![Cam in Action](IMG_1318.jpg)
