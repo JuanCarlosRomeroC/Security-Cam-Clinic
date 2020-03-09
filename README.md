@@ -5,7 +5,7 @@ Inspired from **https://github.com/PINTO0309/OpenVINO-YoloV3**
 
 # Project Idea
 
-The project is a tribute to women safety on the day of International Women's day. 
+The project is a tribute to women safety on the day of **International Women's Day.**
 
 **The person can show an object to the cam and it would trigger a sequence of events. The YOLO Module can detect trained COCO objects. Once a particular object, say a cell phone, is detected then the Raspberry Pi system would publish a message to MQTT brocker via Alert Channel. When the message is received by the MQTT Client then it would trigger an SMS and Phone call (to police station or relatives) via Twilio integration.** 
 
